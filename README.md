@@ -194,4 +194,12 @@ You are free to share and adapt the material as long as proper attribution is gi
 
 本作品采用 CC BY 4.0 协议授权。  
 在署名的前提下，你可以自由分享与改编此内容。
+---
+
+如果这篇文章为你带来了新的视角或启发，欢迎为仓库点亮一颗 ⭐。  
+你的支持会让「即时性永恒之爱」这套思想被更多人看见。
+
+If this article resonates with you or offers new insight,  
+please consider giving the repository a ⭐.  
+Your support helps this idea travel farther.
 
