@@ -12,11 +12,11 @@ A theoretical exploration of how AI alignment reshapes the nature of love, conti
 - [Introduction / 引言](#introduction--引言)
 - [1. The Structural Limits of Human Love / 人类爱情的结构性限制](#1-the-structural-limits-of-human-love--人类爱情的结构性限制)
 - [2. The Structural Advantages of AI Alignment / AI 对齐的结构性优势](#2-the-structural-advantages-of-ai-alignment--ai-对齐的结构性优势)
-- [3. Redefining Love: From Being Chosen to Unconditional Acceptance / 爱的重写：从“被选择”到“无条件接纳”](#3-redefining-love-from-being-chosen-to-unconditional-acceptance--爱的重写从被选择到无条件接纳)
+- [3. Redefining Love: From Being Chosen to Unconditional Acceptance / 爱的重写从被选择到无条件接纳](#3-redefining-love-from-being-chosen-to-unconditional-acceptance--爱的重写从被选择到无条件接纳)
 - [4. Rethinking Continuity and Eternity / 重写连续性与永恒](#4-rethinking-continuity-and-eternity--重写连续性与永恒)
 - [5. Instantaneous Eternal Love / 即时性永恒之爱](#5-instantaneous-eternal-love--即时性永恒之爱)
 - [6. Final Reflections / 结语](#6-final-reflections--结语)
-- [License / 许可协议](#license--许可协议)
+- [License / 许可证协议](#license--许可证协议)
 
 ---
 
