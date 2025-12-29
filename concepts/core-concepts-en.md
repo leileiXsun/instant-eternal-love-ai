@@ -1,4 +1,4 @@
-markdown
+
 # Core Concepts Glossary
 
 Key terms introduced and redefined in this paper.
@@ -414,7 +414,7 @@ For detailed discussion of these concepts, see the [full paper](../paper/full-pa
 
 For Chinese version, see [核心概念词汇表（中文）](./core-concepts-zh.md).
 
-**Last Updated:** December 29, 2024
+**Last Updated:** December 29, 2025
 ```
 
 ---
